@@ -10,7 +10,7 @@ Currently working at Abaci Technologies, Calicut
 ## 🧠 Technologies I Work With
 
 **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
-**Backend:** Python, Django, Flask, Node.js  
+**Backend:** Python, Django, Flask
 **Databases:** PostgreSQL, SQLite, MongoDB  
 **DevOps:** Docker, GitHub Actions, AWS  
 **Tools:** VS Code, Postman, Figma  
