@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rizwan EP
+# 👋 Hi, I'm Abdul Khader Rizan EP
 
 🎯 Passionate about **Full-Stack Development**, **Data Science**, and **Cloud Engineering**.  
 🚀 Currently exploring **Microservices**, **Django REST**, and **React**.  
