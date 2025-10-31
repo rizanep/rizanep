@@ -3,6 +3,7 @@
 🎯 Passionate about **Full-Stack Development**, **Data Science**, and **Cloud Engineering**.  
 🚀 Currently exploring **Microservices**, **Django REST**, and **React**.  
 💡 Love building systems that connect people and data seamlessly.
+Currently working at Abaci Technologies, Calicut
 
 ---
 
